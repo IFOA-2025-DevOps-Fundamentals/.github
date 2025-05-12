@@ -1,6 +1,6 @@
 # 👋 Welcome to the DevOps Course held in IFOA in May 2025!
 
-The course is structured in 4 steps:  ☁️
+The course is structured in 4 steps:
 
 ## 🚀 Course Steps
 
