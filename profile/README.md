@@ -4,9 +4,9 @@ The course is structured in 4 steps:  ☁️
 
 ## 🚀 Course Steps
 
-- [intro-to-cloud-computing](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-to-cloud-computing)
-- [learn-docker-fundamentals]()
-- [intro-gcp]()
-- [intro-ci-cd]()
+- ☁️ [intro-to-cloud-computing](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-to-cloud-computing)
+- [learn-docker-fundamentals](https://github.com/IFOA-2025-DevOps-Fundamentals/learn-docker-fundamentals)
+- [intro-gcp](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-gcp)
+- [intro-ci-cd](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-ci-cd)
 
 ## Enjoy your lessons!
